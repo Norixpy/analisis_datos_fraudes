@@ -7,3 +7,5 @@ permite detectar comportamientos sospechosos y orientar estrategias de prevenci√
 Es un proyecto final del bootcamp: que consto de 3 etapas(analisis con python, documentacion y presentacion de resultados)
 MAKE IT REAL:  https://makeitreal.camp/mitic-analisisdatos (inicio:25 de septiembre 2024, culmino: 30 de marzo 2025)
 codigo de analisis con pandas y numpy:  https://colab.research.google.com/drive/1TuWXjYwa-5_HL2gAe_gfL_qr5JoC2woo
+documentacion:  https://docs.google.com/document/d/1Y6rboknHsRTsAfye9jXWTuRSaGtt0_UflT0FQ3OqRB8/edit?tab=t.0#heading=h.nj23sjpj5u97
+presentacion final:  https://docs.google.com/presentation/d/1-AJg0JW0kU-kHrVF5eAobHWONM_kWHHuyZpLUrDAPdg/edit
